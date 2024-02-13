@@ -1,0 +1,16 @@
+/* Write your CSS here */
+.container {
+  background-color: #ffffff;
+  background-size: cover;
+  display: flex;
+  min-height: 100vh;
+  text-align: center;
+  justify-content: center;
+}
+.heading {
+  color: black;
+}
+.button{
+  border-top: black;
+  border-width:2px;
+}
